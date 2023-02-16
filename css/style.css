@@ -10,9 +10,10 @@ body{
 .divbar{
     display: flex;
     flex-flow: row wrap;
-    /* background color aqua, height 100px*/
-    background-color: white;
-    height: 100px;
+    /* background color black, height 100px*/
+    background-color: rgb(255, 0, 0);
+    /* background-color: white; */
+    height: 200px;
     justify-content: center;
     align-items: center;
     position: fixed;
